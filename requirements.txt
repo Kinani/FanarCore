@@ -1,0 +1,6 @@
+Django>=1.8,<2.0
+djangorestframework
+psycopg2
+py-postgresql
+face_recognition
+opencv-python
