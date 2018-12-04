@@ -8,7 +8,7 @@
 * Add encodings to Postgres DB
 * Search for similar encodings ,maintaing accuracy using a threshold 
 * Add encodings if not found
-* Running a REST based web service service to host the CV functionality
+* Running a REST based web service to host the CV functionality
 * Dockerfile and docker-compose files are available
 
 
